@@ -10,3 +10,5 @@ Learn SQL Fundamental with BigQuery
 2. [DISTINCT_statement.ipynb](https://github.com/yogaprttama/sql-fundamental/blob/main/DISTINCT_statement.ipynb) - Return only distinct (different) values
 3. [LIMIT_statement.ipynb](https://github.com/yogaprttama/sql-fundamental/blob/main/LIMIT_statement.ipynb) - Select a limited number of records
 4. [ORDER_BY_statement.ipynb](https://github.com/yogaprttama/sql-fundamental/blob/main/ORDER_BY_statement.ipynb) - Sorts the records in ascending or descending
+5. [WHERE_statement.ipynb](https://github.com/yogaprttama/sql-fundamental/blob/main/WHERE_statement.ipynb) - Filter records with operators
+6. [CASE_statement.ipynb](https://github.com/yogaprttama/sql-fundamental/blob/main/CASE_statement.ipynb) - Create different output based on conditions
